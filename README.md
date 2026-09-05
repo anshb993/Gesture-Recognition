@@ -2,6 +2,7 @@
 
 A real-time computer vision project that detects human gestures using MediaPipe
 and displays a corresponding meme overlay when the gesture is held for a short duration.
+<img width="1839" height="948" alt="image" src="https://github.com/user-attachments/assets/4f9407dc-f2a1-437c-aed0-1be409fb5326" />
 
 ## Features
 - Real-time webcam processing
